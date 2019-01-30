@@ -21,7 +21,7 @@
   
   
     Answer (c)
-     ---   
+    ---   
   
   
 3. Implement three Singleton classes in Java.
