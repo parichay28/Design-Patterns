@@ -1,4 +1,4 @@
-#Design Pattern Assignment
+# Design Pattern Assignment
 
 1. The general purpose of the Singleton pattern is to:
     - a) Ensure that no more than one instance of a class exists.
