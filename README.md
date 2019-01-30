@@ -7,7 +7,9 @@
     - d) Control creation of objects in a single class or another class.
   
   
+  
        Answer (a)
+  
   
   
 2. Which of the following is true about Singleton class?
@@ -17,12 +19,15 @@
     - d) The class cannot be sub-classed.
   
   
+  
       Answer (c)
   
   
+  
 3. Implement three Singleton classes in Java.
-  - Singleton folder.
+    - In Singleton folder.
+  
   
   
 4. Implement the factory design in Java.
-  - In Factory folder.
+    - In Factory folder.
