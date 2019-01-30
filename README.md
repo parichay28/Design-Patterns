@@ -8,7 +8,7 @@
   
   
   
-       Answer (a)
+    Answer (a)
     ---  
   
   
@@ -20,7 +20,7 @@
   
   
   
-      Answer (c)
+    Answer (c)
      ---   
   
   
