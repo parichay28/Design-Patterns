@@ -9,7 +9,7 @@
   
   
        Answer (a)
-  
+    ---  
   
   
 2. Which of the following is true about Singleton class?
@@ -21,13 +21,15 @@
   
   
       Answer (c)
-  
+     ---   
   
   
 3. Implement three Singleton classes in Java.
     - In Singleton folder.
-  
+    ---  
+ 
   
   
 4. Implement the factory design in Java.
     - In Factory folder.
+    ---
