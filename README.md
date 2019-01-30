@@ -17,7 +17,7 @@
     Answer (c)
   
 3. Implement three Singleton classes in Java.\
-  -Singleton folder.\
+  - Singleton folder.\
   
 4. Implement the factory design in Java.\
-  -In Factory folder.\
+  - In Factory folder.\
