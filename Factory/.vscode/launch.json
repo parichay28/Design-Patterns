@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FactoryDriver",
+            "request": "launch",
+            "mainClass": "FactoryDriver",
+            "projectName": "Factory_5c048371"
+        }
+    ]
+}
